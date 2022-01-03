@@ -1,0 +1,1 @@
+public enum ContactType { Cohabitant, Neighbour, Other }

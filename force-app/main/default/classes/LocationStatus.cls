@@ -1,0 +1,1 @@
+public enum LocationStatus { RED, ORANGE, YELLOW, GREEN}
